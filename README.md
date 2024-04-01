@@ -85,7 +85,7 @@
   
   <img width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Engineered0&theme=vue-dark&hide_border=true" />
   
-  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 
  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   
