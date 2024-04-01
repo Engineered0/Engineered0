@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R programming, Python, Node.js, React.js
 - 💞️ I’m looking to collaborate on Data Analytics and web development projects projects
 - 📫 LinkedIn : www.linkedin.com/in/khaled-ali-ahmed-b1721011b
-- ✨ Kaggle : https://www.kaggle.com/khaledaliahmed
+
 
 <!---
 Engineered0/Engineered0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
