@@ -72,7 +72,6 @@
   ABOUT ME
 </h1>
   
-<img width="130" height="150" src="./assets/icons/about.png" />
   
 <p align="center">
   I'm KHALED ALI AHMED, an Electrical and Computer Engineering Master's student with a knack for software development, based in Windsor, ON. Venturing beyond computer science, I'm on a mission to master various tech fields, backed by a history of courses and internships globally.
