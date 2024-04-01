@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Engineered0" alt="visitor badge" align = "right"/>
 
-<h1 align="right">
+<h1 align="center">
   <a href="">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!!;I'm+Khaled!+" alt="Typing SVG">
   </a>
@@ -26,7 +26,7 @@
   
 <a href="">
   
-  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg" align="center"/>
   
 
 </a>
