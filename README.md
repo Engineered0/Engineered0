@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Engineered0" alt="visitor badge" align = "right"/>
 
-<h1 align="center">
+<h1 align="right">
   <a href="">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!!;I'm+Khaled!+" alt="Typing SVG">
   </a>
