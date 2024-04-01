@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Engineered0">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Engineered0" alt="visitor badge"/>
 
 <h1 align="center">
   <a href="">
