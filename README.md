@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!!;I'm+Khaled!+" alt="Typing SVG">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!!;I'm+Khaled!+" alt="Typing SVG" align ="Center">
   </a>
 </h1>
 
@@ -26,7 +26,7 @@
   
 <a href="" align ="right">
   
-  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg" />
+  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg" align ="center"/>
   
 
 </a>
@@ -58,13 +58,7 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" /> 
 --->
   
-<img height="100" src="./assets/icons/React.png"/>
-<img height="100" src="./assets/icons/javascript.png" />
-<img height="100" src="./assets/icons/html.png"/>
-<img height="100" src="./assets/icons/css.png" />
-<img height="100" src="./assets/icons/MongoDB.png" />
-<img height="100" src="./assets/icons/node.png" />
-<img height="100" src="./assets/icons/python.png" />
+<img height="100" src="./assets/icons/React.png"/><img height="100" src="./assets/icons/javascript.png" /><img height="100" src="./assets/icons/html.png"/><img height="100" src="./assets/icons/css.png" /><img height="100" src="./assets/icons/MongoDB.png" /><img height="100" src="./assets/icons/node.png" /><img height="100" src="./assets/icons/python.png" />
 
   
 &nbsp;
@@ -105,13 +99,7 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/harisalimughal/personal-portfolio-haris" align="left"><img align="left" width="45%" src="./assets/images/personalportfolio.png" /></a><a href="https://github.com/harisalimughal/CodeClauseInternship_NewsPortal" align="right"><img align="right" width="45%" src="./assets/images/newsPortal.png" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br/>
-
-<div width="100%" align="center"><a href="https://github.com/harisalimughal/CodeClauseInternship_Basic-Text-Editor" align="left"><img align="left" width="45%" src="./assets/images/txteditor.png" /></a><a href="https://github.com/harisalimughal/CodeClauseInternship_ChatApp" align="right"><img align="right" width="45%" src="./assets/images/chatapp github.png" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 <!--- building footer with spaceship question --->
