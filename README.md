@@ -93,42 +93,11 @@
   <img width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Engineered0&theme=vue-dark&hide_border=true" />
   
   <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+
+ <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   
 </p>
 
-
-<!--- Recent Activity ☂️ ---> 
-
-<h1 align="center">
-    Recent Activity ☂️
-</h2>
-
-<table align="center">
-  <tr> 
-    <div style="text-align: center;">
-    <td align="center">
-      
-<!--START_SECTION:activity-->
- <a href="https://wakatime.com/@harisalimughal">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harisalimughal&hide_progress=false&layout=compact&custom_title=Wakatime%20Stats%20SINCE%20SEP%208,%202023"
-            alt="harisalimughal's wakatime Stats (SINCE SEP 8,2023)">
-    </a>
-<!--END_SECTION:activity-->
-
-<h1 align="center">
-    Languages Stats ✍✨
-    </h1>
-    
-<table align="center">
-  <tr> 
-    <div style="text-align: center;">
-    <td align="left">
-<a href="https://github.com/harisalimughal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalimughal&langs_count=40&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages%20Repo%20Based" alt="Top Languages" /></a>
-
- </td>
-   </div>
-  </tr>
-</table>
 
 
 <!--- Github snack contribution graph --->
@@ -151,7 +120,6 @@
 <img height="90" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
 
 
-<span style="font-size: 24px;">No, It's time to go beyond the stars now🌟</span>
 
  
  </div>
