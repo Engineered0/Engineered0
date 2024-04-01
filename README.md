@@ -104,8 +104,6 @@
 <!--- building footer with spaceship question --->
   
 
-<img height="90" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
-
 
 
  
