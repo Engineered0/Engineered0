@@ -28,11 +28,11 @@
   
 <!--- portfolio launch image --->
   
-<a href="https://harisalimughal.netlify.app/">
+<a href="">
   
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
-  ![](https://komarev.com/ghpvc/?username=harisalimughal&color=blueviolet&label=Profile+Views)
+
 </a>
 
   
@@ -93,19 +93,7 @@
 <img height="100" src="./assets/icons/MongoDB.png" />
 <img height="100" src="./assets/icons/node.png" />
 <img height="100" src="./assets/icons/python.png" />
-<img height="100" src="./assets/icons/c++.png" />
-<img height="100" src="./assets/icons/java.png" />
-<img height="100" src="./assets/icons/git.png" />
-<img height="100" src="./assets/icons/wordpress.png" />
-<img height="100" src="./assets/icons/vscode.png" />
-<img height="100" src="./assets/icons/visualstudio.png" />
-<img height="100" src="./assets/icons/netbeans.png" />
-<img height="100" src="./assets/icons/ecllipse.png" />
-<img height="100" src="./assets/icons/pycharm.png" />
-<img height="100" src="./assets/icons/figma.png" />
-<img height="100" src="./assets/icons/photoshop.png" />
-<img height="100" src="./assets/icons/Unity.png" />
-<img height="100" src="./assets/icons/office.png" />
+
   
 &nbsp;
 <h1 align="center">
@@ -114,67 +102,24 @@
   
 <img width="130" height="150" src="./assets/icons/about.png" />
   
-Entered in the wold of technology as a computer science student but not limited to this. Ambitious to excel in other fields of tech as well. I have done courses and internships at various platforms in local as well as global companies🎉. I'm a passionate learner.
-  
-  <!--- Personal --->  
-  
-<h1 align="center">
-    Personal 
-    </h2>
-  
-Building `Elegant` Open Source Repository and Projects.
-  
-Bloodline `Creative, Reflective & Introspective` Designer.
-  
-Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
-  
-Smarting `Ignorance/absence` those who lose diamond.
-  
-Believe `in Allah Almighty` Exclusively and Unconditionally.
-  
-  
-  <!--- Education --->  
-  
-<h1 align="center">
-    Education 
-    </h2>
-
-  Fifth Semester - `Bachelor` in `Computer Science `(BSCS)` - Nuces (Fast) University Islamabad
-  
-  `Intermediate` with `95% marks` - Nishat Group of College's Multan 
-  
-  `Matriculation`  with `97% marks` - Nishat Boys High School Multan
+<p align="center">
+  I'm KHALED ALI AHMED, an Electrical and Computer Engineering Master's student with a knack for software development, based in Windsor, ON. Venturing beyond computer science, I'm on a mission to master various tech fields, backed by a history of courses and internships globally.
+  <br><br>
+  At Cognizant Technology Solutions, I refined my skills in database management and project collaboration, contributing to team productivity and embracing cloud-based tools.
+  <br><br>
+  My current studies at the University of Windsor, set to conclude in December 2024, reinforce my technical foundation, which includes SQL, Python, Java, and C. Outside academia, I contribute to open-source projects, champion creative design, and am driven by continuous learning and excellence.
+  <br><br>
+  📫 Reach me at <a href="mailto:ahmed481@uwindsor.ca">ahmed481@uwindsor.ca</a> | <a href="https://github.com/Engineered0" title="GitHub">GitHub</a>
+</p>
 
   
-  <!--- Portfolio/Website --->  
-  
-<h1 align="center">
-    Portfolio/Website
-    </h2>
-  
-  `Personal Website` -> <a href="https://harisalimughal.netlify.app/" target="_blank">`Haris Ali Mughal`</a>
-  
-  `credibleinfo` -> <a href="https://mycredible.info/#505183863" target="_blank">`Haris Ali Mughal`</a>
 
-  `Figma (UI/UX)` -> <a href="https://www.figma.com/@harisalimughal" target="_blank">`Haris Ali Mughal`</a>
-  
-  `Linktree` -> <a href="https://linktr.ee/harisali077" target="_blank">`Haris Ali Mughal`</a>
-  
-  
-  <!--- Buy Me a Coffee ☕ ---> 
-  
-<!--- <h3 align="center"></h3>
-<p><a href="https://www.buymeacoffee.com/harisalimughal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" alt="oss amehmood" /></a><a href="https://ko-fi.com/harisalimughal">
-<img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="harisalimughal" /></a></p> --->
-
-  
-  <!--- adding 3D earth icon to show some love for the environment 🌏 --->
   
  <img height="60" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   
  <p align="center">
   
-  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=harisalimughal&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   
   <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=harisalimughal&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
