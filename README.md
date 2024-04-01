@@ -34,40 +34,16 @@
   
 <!--- social media icons, you can find them in the assets directory of this repo --->
   
-<a href="https://www.linkedin.com/in/harisalimughal/" target="_blank">
-  <img height="55" alt="Haris Ali | LinkedIn"  src="./assets/social icons/linkedin.png"/>
-</a> 
-  
-<a href="https://www.facebook.com/harisalimughal0/" target="_blank">
-  <img height="55" alt="Haris Ali | Facebook" src="./assets/social icons/facebook.png" />
+<a href="https://www.linkedin.com/in/kaa786" target="_blank">
+  <img height="55" alt="Khaled Ali| LinkedIn"  src="./assets/social icons/linkedin.png"/>
 </a> 
 
-<a href="https://dev.to/harisali077">
-    <img height="55" src="./assets/social icons/dev.png" />
-</a>
-  
-<a href="https://stackoverflow.com/users/20036503/harisali077-mughal?tab=profile" target="_blank">
-  <img height="55" alt="Haris Ali | StackOverFlow" src="./assets/social icons/stackoverflow.png" />
-</a>
-  
-<a href="https://www.instagram.com/haris_ali_mughal/" target="_blank">
-  <img height="55" alt="Haris Ali | Instagram"  src="./assets/social icons/instagram.png" />
-</a>
-
-<a href="https://www.youtube.com/@siliconHarry">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
-</a>  
-
-<a href="https://twitter.com/MHarisali077">
-    <img height="55" src="./assets/social icons/twitter.png" />
-</a> 
 
   
 <!--- a bit of vertical space & languages text --->
   
 <div>&nbsp;</div>
   
-<img height="65" alt="Haris Ali | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
 
 <div></div>
   
