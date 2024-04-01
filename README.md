@@ -19,11 +19,7 @@
   
 <!--- header image --->
 
-<div align="center">
-  
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="./assets/header/harisalimughal.png">
-</p>
+
 
   
 <!--- portfolio launch image --->
@@ -119,9 +115,9 @@
   
  <p align="center">
   
-  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Engineered0&theme=vue-dark&hide_border=true" />
   
-  <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=harisalimughal&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineered0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   
 </p>
 
