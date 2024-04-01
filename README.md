@@ -7,31 +7,34 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="www.linkedin.com/in/kaa786" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/khaledaliahmed99" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm KHALED ALI AHMED, an aspiring Electrical and Computer Engineer & Software Developer from Windsor, ON.
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 I'm currently pursuing my Master's in Electrical and Computer Engineering, set to graduate in December 2024 from the University of Windsor.
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🎓 I have a strong foundation in programming with modern languages such as Java, C, and Python, and I'm skilled in object-oriented design.
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  📈 I'm proficient in optimization mathematics, including linear and nonlinear optimization, applying these methods to engineering challenges.
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  💻 I have a deep understanding of distributed systems, algorithms, and relational databases, honed through academic projects and coursework.
   <br>
-  💻 I love writing code and learn anythings about it
+  🌐 I'm also experienced in working with SQL, Python, Java, C, MATLAB, and familiar with visualization tools like Power BI, Google Sheets, and Grafana.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  🛠️ My employment experience includes being an Associate Analyst at Cognizant Technology Solutions, where I led database maintenance initiatives, built advanced data extraction pipelines, and spearheaded cloud-based solutions for project collaboration.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  🚀 I have developed several projects including a Python and Django based blogging platform, a DDR Memory Performance Monitoring Tool, and a Smart Environment Monitoring System using Raspberry Pi.
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📚 I'm continuously learning and have completed certifications in Linux Command Line, C Programming for Embedded Applications, Google Data Analytics, and am a Salesforce Certified Administrator.
+  <br>
+  💬 Feel free to ask me anything about my experience or projects via my <a href="https://github.com/Engineered0" title="GitHub">GitHub</a>.
+  <br>
+  📫 You can reach me at: <a href="mailto:ahmed481@uwindsor.ca">ahmed481@uwindsor.ca</a>
 </p>
 
 <hr>
