@@ -24,7 +24,7 @@
   
 <!--- portfolio launch image --->
   
-<a href="engineered0.github.io" align ="right">
+<a href="https://engineered0.github.io" align ="right">
   
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg" align ="right"/>
   
