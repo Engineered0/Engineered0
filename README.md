@@ -70,7 +70,7 @@
 <p align="center">
   I'm KHALED ALI AHMED, an Electrical and Computer Engineering Master's student with a knack for software development, based in Windsor, ON. Venturing beyond computer science, I'm on a mission to master various tech fields, backed by a history of courses and internships globally.
   <br><br>
-  At Cognizant Technology Solutions, I refined my skills in database management and project collaboration, contributing to team productivity and embracing cloud-based tools.
+  I have refined my skills in software Development, database management and project collaboration, contributing to team productivity and embracing cloud-based tools.
   <br><br>
   My current studies at the University of Windsor, set to conclude in December 2024, reinforce my technical foundation, which includes SQL, Python, Java, and C. Outside academia, I contribute to open-source projects, champion creative design, and am driven by continuous learning and excellence.
   <br><br>
