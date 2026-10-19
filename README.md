@@ -74,7 +74,7 @@
   <br><br>
   My current studies at the University of Windsor, set to conclude in December 2024, reinforce my technical foundation, which includes SQL, Python, Java, and C. Outside academia, I contribute to open-source projects, champion creative design, and am driven by continuous learning and excellence.
   <br><br>
-  📫 Reach me at <a href="mailto:ahmed481@uwindsor.ca">ahmed481@uwindsor.ca</a> | <a href="https://github.com/Engineered0" title="GitHub">GitHub</a>
+  📫 Reach me at <a href="mailto:khaledaliahmed99@gmail.com">ahmed481@uwindsor.ca</a> | <a href="https://github.com/Engineered0" title="GitHub">GitHub</a>
 </p>
 
   
